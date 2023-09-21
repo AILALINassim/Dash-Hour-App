@@ -1,4 +1,4 @@
-# Python-Git-Linux-IF4
+# DashHourApp
 
 Dashboard Dash application which displays current time (curl from https://quelleheureestil.fr) and a graph of the time series every 5 minutes using cron. There is also a daily report updating each day at 8pm. The server is hosted on a AWS Linux virtual machine.
 
